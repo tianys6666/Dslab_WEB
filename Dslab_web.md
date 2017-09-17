@@ -8,17 +8,18 @@
 #### 项目内容
 >本项目使用wordpress框架开发，前端页面用html语言，后端语言使用PHP，网站数据库使用MYSQL。
 
-![](https://github.com/tianys6666/Heihe_system/blob/master/image/qq.png)  
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d1.png)  
 >图1   网站主页设计
 
-![](https://github.com/tianys6666/Heihe_system/blob/master/image/h2.png)  
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d2.png)  
 >图2   网站结构
 
-![](https://github.com/tianys6666/Heihe_system/blob/master/image/h3.png)
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d3.png)
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d4.png)
 >图3  网站主页面
 
-![](https://github.com/tianys6666/Heihe_system/blob/master/image/h4.png)
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d5.png)
 >图4  信息介绍页面
 
-![](https://github.com/tianys6666/Heihe_system/blob/master/image/h5.png)
+![](https://github.com/tianys6666/dslab_web/blob/master/image/d6.png)
 >图5  获奖页面
